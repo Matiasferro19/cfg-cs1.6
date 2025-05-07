@@ -25,7 +25,7 @@ Inicia el juego y abre la consola.
 
 Escribe el siguiente comando para ejecutar la configuración:
 
-exec mi_config_spray_control.cfg (en la consola dentro del juego)
+exec mi_config_spray_control.cfg 
 
 
 ⚠️ Requisitos
