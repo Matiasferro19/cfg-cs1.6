@@ -1,4 +1,4 @@
-🎯 Configuración CS 1.6 – MATU
+🎯 Configuración CS 1.6 
 Este archivo .cfg está optimizado para mejorar la precisión, el control del retroceso y la experiencia general en partidas competitivas de Counter-Strike 1.6.
 
 🛠️ Contenido
